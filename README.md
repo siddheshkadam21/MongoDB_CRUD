@@ -1,6 +1,7 @@
 # MongoDB_CRUD
 CRUD Operations 
 - Create 
+- - insertmany ,insertone
 - Remove
 - Update
 - Delete
